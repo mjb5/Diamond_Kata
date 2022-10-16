@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Diamond_Kata/bin/Debug/net6.0
+/Diamond_Kata/obj
+/Diamond_Kata.Tests/bin/Debug/net6.0
+/Diamond_Kata.Tests/obj
